@@ -1,0 +1,28 @@
+.nav-links
+{
+  position: absolute;
+  top: 0;
+  right: 0;
+
+}
+.nav-links a
+{
+  text-decoration: none;
+  color: white;
+  margin-left: 2.4rem;
+  padding: 10px 15px;
+}
+/* .social-media 
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+  
+}
+.social-media a
+{
+      text-decoration: none;
+      color: white;
+      margin-left:auto ;
+      padding: 10px 15px;
+} */
